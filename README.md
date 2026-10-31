@@ -1,12 +1,11 @@
 <h1 align="center">🦘 mallangquokka</h1>
-<p align="center">사이버보안을 공부하는 학생 · <b>Knights Frontier 3기</b></p>
+<p align="center">사이버보안을 공부하는 학생</p>
 <p align="center">Reversing · Pwnable · 웹 취약점 · CVE 분석</p>
 
 ---
 
 안녕하세요 👋
 배운 것을 코드로 남기고, "왜 취약한지"와 "어떻게 막는지"를 손으로 확인하며 공부합니다.
-기록은 블로그 **[Quokka's Nest](https://mallangmollangquokka.github.io)** 에 정리하고 있습니다.
 
 ### 🔐 Security
 
@@ -27,8 +26,8 @@
 ### ✍️ Blog
 
 **[Quokka's Nest →](https://mallangmollangquokka.github.io)**
-개발 · CTF/Wargame · Bug Bounty · 기술문서 · 논문/컨퍼런스 · 공모전/자격증
+개발 · CTF/Wargame · Bug Bounty · 기술문서
 
 ### 🛠 Tech
 
-`C` `Python` `PHP` `x86-64 Assembly` `Linux` `Docker` `Flask` `pwntools` `Burp Suite` `IDA / Ghidra`
+`C` `Python` `x86-64 Assembly` `Linux` `Docker` `pwntools` `Burp Suite` `IDA / Ghidra`
